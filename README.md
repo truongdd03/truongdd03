@@ -1,6 +1,6 @@
-### Hi there!
+### Hi there 👋
 
-I'm Dong (Don), a CS student at Michigan State University. Let's be friends :)
+I'm Don, a CS student at Michigan State University 👨‍🎓. I love coding 💻 and animals 🐶. Let's be friends 🤗
 
 <a href="https://www.linkedin.com/in/dong-truong/">
   <img alt="Don's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
