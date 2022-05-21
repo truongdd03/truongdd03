@@ -5,9 +5,9 @@ I'm Don, a CS student at Michigan State University 👨‍🎓. I love coding �
 <a href="https://www.linkedin.com/in/dong-truong/">
   <img alt="Don's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/truongdinh_dong/">
+<!-- <a href="https://www.instagram.com/truongdinh_dong/">
   <img alt="Don's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+</a> -->
 <a href="https://discordapp.com/users/763404045150060605">
   <img alt="Don's Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
