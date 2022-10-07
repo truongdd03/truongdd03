@@ -23,5 +23,5 @@ I'm Don (Dong). A bit about me:
   <img alt="Don's Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=truongdd03)](https://github.com/truongdd03)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truongdd03&layout=compact)](https://github.com/truongdd03)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=truongdd03)](https://github.com/truongdd03)
