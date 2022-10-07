@@ -2,6 +2,8 @@
 
 I'm Don, a CS student at Michigan State University 👨‍🎓. I love coding 💻 and animals 🐶. Let's be friends 🤗
 
+I'm working on my person website. Check it out [here](https://truongdd03.github.io/)!
+
 <a href="https://www.linkedin.com/in/dong-truong/">
   <img alt="Don's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
