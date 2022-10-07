@@ -1,6 +1,12 @@
 ### Hi there 👋 ![](https://komarev.com/ghpvc/?username=truongdd03&style=flat) 
 
-I'm Don, a CS student at Michigan State University 👨‍🎓. I love coding 💻 and animals 🐶. Let's be friends 🤗
+I'm Don (Dong). A bit about me:
+
+🐶 I love animals
+
+📫 Reach me at **dong23102003@gmail.com**
+
+👨‍🎓 I'm a sophmore student at Michigan State University
 
 🌱 I'm currently working on my person website. Check it out [here](https://truongdd03.github.io/)!
 
@@ -17,6 +23,5 @@ I'm Don, a CS student at Michigan State University 👨‍🎓. I love coding �
   <img alt="Don's Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truongdd03&layout=compact)](https://github.com/truongdd03)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=truongdd03)](https://github.com/truongdd03)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truongdd03&layout=compact)](https://github.com/truongdd03)
