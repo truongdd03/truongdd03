@@ -2,13 +2,13 @@
 
 I'm Don (Dong). A bit about me:
 
-🐶 I love animals
+🐶 I love dogs
 
 📫 Reach me at **dong23102003@gmail.com**
 
-👨‍🎓 I'm a sophmore student at Michigan State University
+👨‍🎓 I'm studying Computer Science at Michigan State University
 
-🌱 I'm currently working on my person website. Check it out [here](https://truongdd03.github.io/)!
+🌱 I'm currently working on my personal website. Check it out [here](https://truongdd03.github.io/)!
 
 <a href="https://www.linkedin.com/in/dong-truong/">
   <img alt="Don's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
