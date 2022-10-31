@@ -22,7 +22,6 @@ I'm Don (Dong). A bit about me:
 <a href="https://leetcode.com/tddong2323/">
   <img alt="Don's Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 </a>
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=truongdd03&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=truongdd03&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=truongdd03&theme=vue-dark&hide_border=false)<br/>
