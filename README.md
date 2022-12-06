@@ -26,8 +26,9 @@ I'm Don (Dong). A bit about me:
   <img alt="Don's Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 
-<img src="/shiba.gif" width="200" height="200"/> 
-
-![](https://github-readme-stats.vercel.app/api?username=truongdd03&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=truongdd03&theme=vue-dark&hide_border=false)<br/> -->
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=truongdd03&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" /> 
+  
+  <img src="/shiba.gif" width="195" height="195" /> 
+</div>
 
