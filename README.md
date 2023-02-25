@@ -27,8 +27,9 @@ I'm Don (Dong). A bit about me:
 </a>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=truongdd03&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" /> 
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=truongdd03&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" /> -->
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=truongdd03&theme=vue-dark&hide_border=false" />
   
-  <img src="/shiba.gif" width="195" height="195" /> 
+  <img src="/working-shiba.gif" width="250" height="195" /> 
 </div>
 
