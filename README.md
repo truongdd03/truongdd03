@@ -29,7 +29,7 @@ I'm Don (Dong). A bit about me:
 📫 Reach me at **dong23102003@gmail.com**
   
 **Skills:**  
-
+<p align="center">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -39,9 +39,13 @@ I'm Don (Dong). A bit about me:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
+</p>
+  
+<!-- <div style="display: flex; justify-content: space-between; align-items: center;"> -->
  <!-- <img src="https://github-readme-stats.vercel.app/api?username=truongdd03&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" /> -->
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=truongdd03&theme=vue-dark&hide_border=false" />  
-</div>
+<!-- </div> -->
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=truongdd03&theme=vue-dark&hide_border=false" />  
+</p>
 
