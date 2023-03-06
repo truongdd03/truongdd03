@@ -14,7 +14,7 @@
 
 ![](https://komarev.com/ghpvc/?username=truongdd03&style=flat)
 
-<img align="right" src="/working-shiba.gif" width="400" height="300" /> 
+<img align="right" src="/working-shiba.gif" width="350" height="250" /> 
 
 I'm Don (Dong). A bit about me:
 
