@@ -1,16 +1,4 @@
 ### Hi there 👋 
-<a href="https://discordapp.com/users/763404045150060605">
-  <img align="left" alt="Don's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.linkedin.com/in/dong-truong/">
-  <img align="left" alt="Don's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/dong_trng/">
-  <img align="left" alt="Don's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<!-- <a href="https://truongdd03.github.io/">
-  <img align="left" alt="Don's Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-</a> -->
 
 ![](https://komarev.com/ghpvc/?username=truongdd03&style=flat)
 
