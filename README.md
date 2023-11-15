@@ -12,7 +12,7 @@ I'm Don (Dong). A bit about me:
 
 👨‍🎓 I'm studying Computer Science at Michigan State University
 
-🌱 I'm working on my personal website. Check it out [here](https://truongdd03.github.io/gh)!
+🌱 I'm working on my personal website. Check it out [here](https://truongdd03.github.io/?ref=github)!
 
 📫 Reach me at **dong23102003@gmail.com**
   
