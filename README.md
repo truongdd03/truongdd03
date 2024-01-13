@@ -33,7 +33,3 @@ I'm Don (Dong). A bit about me:
  <!-- <img src="https://github-readme-stats.vercel.app/api?username=truongdd03&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" /> -->
 <!-- </div> -->
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=truongdd03&theme=vue-dark&hide_border=false" />  
-</p>
-
