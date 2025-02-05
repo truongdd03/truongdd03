@@ -8,11 +8,11 @@ I'm Don (Dong). A bit about me:
 
 🐶 I love dogs
 
-:books: I'm learning Java
+📚 I'm learning Java
 
-👨‍🎓 I'm studying Computer Science at Michigan State University
+☁️ I'm a software engineer at Salesforce
 
-🌱 I'm working on my personal website. Check it out [here](https://truongdd03.github.io/?ref=github)!
+🌱 I'm working on my website. Check it out [here](https://truongdd03.github.io/?ref=github)!
 
 📫 Reach me at **dong23102003@gmail.com**
   
