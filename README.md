@@ -6,7 +6,7 @@
 
 I'm Don (Dong). A bit about me:
 
-🐶 I love dogs
+🥘 I love Bun Boa <3
 
 📚 I'm learning Java
 
